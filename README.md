@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="http://il.linkedin.com/in/itaybittan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="http://il.linkedin.com/in/itaybittan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1011253/itayb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/1011253/itayb" height="30" width="40" /></a>
-<a href="https://medium.com/@itay.bittan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="https://medium.com/@itay.bittan" height="30" width="40" /></a>
+<a href="https://itay-bittan.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="https://itay-bittan.medium.com" height="30" width="40" /></a>
 </p>
 
 <p align="left">
