@@ -1,5 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/itayB/itayB/master/waving.gif" width="40px">, I'm Itay Bittan</h1>
-<h3 align="center">A passionate software engineer from Israel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itayb&label=Profile%20views&color=0e75b6&style=flat" alt="itayb" /> </p>
 
