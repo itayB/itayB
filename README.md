@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itayb&label=Profile%20views&color=0e75b6&style=flat" alt="itayb" /> </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itayB&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itayB&theme=dark)](https://git.io/streak-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itayb" alt="itayb" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=itayB&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
