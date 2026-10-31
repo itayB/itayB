@@ -1,25 +1,72 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/itayB/itayB/master/waving.gif" width="40px">, I'm Itay Bittan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itayb&label=Profile%20views&color=0e75b6&style=flat" alt="itayb" /> </p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itayB&theme=dark)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=itayB&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="http://il.linkedin.com/in/itaybittan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="http://il.linkedin.com/in/itaybittan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/1011253/itayb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/1011253/itayb" height="30" width="40" /></a>
-<a href="https://itay-bittan.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="https://itay-bittan.medium.com" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/-555555?style=for-the-badge&logo=github&logoColor=white" alt=""><img src="https://komarev.com/ghpvc/?username=itayb&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views">
+  <a href="https://www.linkedin.com/in/itaybittan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkxpbmtlZEluIGljb248L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn"></a>
+  <a href="https://itay-bittan.medium.com"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://stackoverflow.com/users/1011253/itayb"><img src="https://img.shields.io/stackexchange/stackoverflow/r/1011253?style=for-the-badge&logo=stackoverflow&logoColor=white&label=Stack%20Overflow&color=F58025" alt="Stack Overflow reputation"></a>
 </p>
 
-<p align="left">
-<a href="https://stackoverflow.com/users/1011253/itayb"><img src="https://stackoverflow.com/users/flair/1011253.png" width="208" height="58" alt="profile for ItayB at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ItayB at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+### Tech stack
+
+
+**AI**
+
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="icons/claude-dark.svg"><img src="icons/claude-light.svg" width="48" title="Claude Code" alt="Claude Code"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="icons/langfuse-dark.svg"><img src="icons/langfuse-light.svg" width="48" title="Langfuse" alt="Langfuse"></picture>
 </p>
 
+**Languages**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py&theme=dark"><img src="https://skillicons.dev/icons?i=py&theme=light" width="48" title="Python" alt="Python"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark"><img src="https://skillicons.dev/icons?i=ts&theme=light" width="48" title="TypeScript" alt="TypeScript"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash&theme=dark"><img src="https://skillicons.dev/icons?i=bash&theme=light" width="48" title="Bash" alt="Bash"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&theme=dark"><img src="https://skillicons.dev/icons?i=java&theme=light" width="48" title="Java" alt="Java"></picture>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itayb&show_icons=true" alt="itayb" /></p>
+**Cloud & Infrastructure**
 
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kubernetes&theme=dark"><img src="https://skillicons.dev/icons?i=kubernetes&theme=light" width="48" title="Kubernetes" alt="Kubernetes"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark"><img src="https://skillicons.dev/icons?i=docker&theme=light" width="48" title="Docker" alt="Docker"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws&theme=dark"><img src="https://skillicons.dev/icons?i=aws&theme=light" width="48" title="AWS" alt="AWS"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gcp&theme=dark"><img src="https://skillicons.dev/icons?i=gcp&theme=light" width="48" title="Google Cloud" alt="Google Cloud"></picture>
+</p>
+
+**Databases & Messaging**
+
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis&theme=dark"><img src="https://skillicons.dev/icons?i=redis&theme=light" width="48" title="Redis" alt="Redis"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=elasticsearch&theme=dark"><img src="https://skillicons.dev/icons?i=elasticsearch&theme=light" width="48" title="Elasticsearch" alt="Elasticsearch"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kafka&theme=dark"><img src="https://skillicons.dev/icons?i=kafka&theme=light" width="48" title="Kafka" alt="Kafka"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=dark"><img src="https://skillicons.dev/icons?i=postgres&theme=light" width="48" title="PostgreSQL" alt="PostgreSQL"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark"><img src="https://skillicons.dev/icons?i=mysql&theme=light" width="48" title="MySQL" alt="MySQL"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cassandra&theme=dark"><img src="https://skillicons.dev/icons?i=cassandra&theme=light" width="48" title="Cassandra" alt="Cassandra"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rabbitmq&theme=dark"><img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" width="48" title="RabbitMQ" alt="RabbitMQ"></picture>
+</p>
+
+**Frameworks**
+
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi&theme=dark"><img src="https://skillicons.dev/icons?i=fastapi&theme=light" width="48" title="FastAPI" alt="FastAPI"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="48" title="Node.js" alt="Node.js"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark"><img src="https://skillicons.dev/icons?i=react&theme=light" width="48" title="React" alt="React"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="icons/celery-dark.svg"><img src="icons/celery-light.svg" width="48" title="Celery" alt="Celery"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="icons/airflow-dark.svg"><img src="icons/airflow-light.svg" width="48" title="Airflow" alt="Airflow"></picture>
+</p>
+
+**Observability**
+
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=grafana&theme=dark"><img src="https://skillicons.dev/icons?i=grafana&theme=light" width="48" title="Grafana" alt="Grafana"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=prometheus&theme=dark"><img src="https://skillicons.dev/icons?i=prometheus&theme=light" width="48" title="Prometheus" alt="Prometheus"></picture>
+</p>
+
+### GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=itayB&theme=github-dark-blue&hide_border=true">
+  <img src="https://streak-stats.demolab.com/?user=itayB&theme=default&hide_border=true" alt="GitHub streak">
+</picture>
